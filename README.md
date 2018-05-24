@@ -2,7 +2,8 @@
 
 A Flutter Application showing the earth quakes details.
 
-## Getting Started
+## ScreenShot
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![Screenshot](https://raw.githubusercontent.com/passioninfinite/earthquake/master/app_ss.jpg)
+
+
